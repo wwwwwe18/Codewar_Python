@@ -1,5 +1,5 @@
 """
-Square Every Digit
+Square every digit
 Date: 07-Feb-2020
 """
 def square_digits(num):
