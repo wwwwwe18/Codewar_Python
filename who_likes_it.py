@@ -1,5 +1,5 @@
 """
-Codewar: Who likes it?
+Who likes it?
 Date: 05-Feb-2020
 """
 def likes(names):
