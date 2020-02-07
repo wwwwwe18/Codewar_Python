@@ -1,5 +1,6 @@
 """
 Codewar: Who likes it?
+Date: 05-Feb-2020
 """
 def likes(names):
     num_likes = len(names)
