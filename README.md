@@ -15,4 +15,5 @@ https://www.codewars.com/kata/54da5a58ea159efa38000836
 # 5. RGB To Hex Conversion (22-Feb-2020)
 https://www.codewars.com/kata/513e08acc600c94f01000001/train/python
 
-# 6.
+# 6. Human Readable Time (22-Feb-2020)
+https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python
