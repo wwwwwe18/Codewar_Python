@@ -12,7 +12,7 @@ https://www.codewars.com/kata/54c27a33fb7da0db0100040e
 # 4. Find the odd int
 https://www.codewars.com/kata/54da5a58ea159efa38000836
 
-# 5. RGB To Hex Conversion
+# 5. RGB To Hex Conversion (22-Feb-2020)
 https://www.codewars.com/kata/513e08acc600c94f01000001/train/python
 
 # 6.
