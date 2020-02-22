@@ -18,4 +18,5 @@ https://www.codewars.com/kata/513e08acc600c94f01000001/train/python
 # 6. Human Readable Time (22-Feb-2020)
 https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python
 
-# 7. 
+# 7. Take a Ten Minute Walk (22-Feb-2020)
+https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python
