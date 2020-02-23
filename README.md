@@ -29,3 +29,7 @@ https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python
 
 # 10. Replace With Alphabet Position (23-Feb-2020)
 https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python
+
+# 11. Which are in? (23-Feb-2020)
+https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/python
+
