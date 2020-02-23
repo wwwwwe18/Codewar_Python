@@ -21,7 +21,7 @@ https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python
 # 7. Take a Ten Minute Walk (22-Feb-2020)
 https://www.codewars.com/kata/54da539698b8a2ad76000228/train/python
 
-# 8. Dubstep (22-Feb-2020)
+# 8. Dubstep (23-Feb-2020)
 https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/python
 
 # 9. 
