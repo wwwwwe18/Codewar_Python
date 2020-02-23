@@ -27,4 +27,5 @@ https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/python
 # 9. Valid Parentheses (23-Feb-2020)
 https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python
 
-# 10.  (23-Feb-2020)
+# 10. Replace With Alphabet Position (23-Feb-2020)
+https://www.codewars.com/kata/546f922b54af40e1e90001da/train/python
