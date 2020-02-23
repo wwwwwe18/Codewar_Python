@@ -30,7 +30,6 @@ def iq_test(numbers):
         diff_index = numbers_list.index(1)+1
     
     return diff_index
-    
 
 #Test.assert_equals(iq_test("2 4 7 8 10"),3)
 #Test.assert_equals(iq_test("1 2 2"), 1)
