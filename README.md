@@ -35,3 +35,6 @@ https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/python
 
 # 12. IQ Test (23-Feb-2020)
 https://www.codewars.com/kata/552c028c030765286c00007d/train/python
+
+# 13. Find the missing letter (23-Feb-2020)
+https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/python
