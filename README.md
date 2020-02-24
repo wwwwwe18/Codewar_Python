@@ -44,3 +44,6 @@ https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/python
 
 # 15. The Hashtag Generator (24-Feb-2020)
 https://www.codewars.com/kata/52449b062fb80683ec000024/train/python
+
+# 16. Moving Zeros To The End (24-Feb-2020)
+https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python
