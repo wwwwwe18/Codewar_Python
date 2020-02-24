@@ -39,5 +39,8 @@ https://www.codewars.com/kata/552c028c030765286c00007d/train/python
 # 13. Find the missing letter (23-Feb-2020)
 https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/python
 
-# 14. Strip Comments (23-Feb-2020)
+# 14. Strip Comments (24-Feb-2020)
 https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/python
+
+# 15. The Hashtag Generator (24-Feb-2020)
+https://www.codewars.com/kata/52449b062fb80683ec000024/train/python
