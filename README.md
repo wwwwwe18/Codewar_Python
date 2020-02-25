@@ -54,4 +54,5 @@ https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/python
 # 18. Range Extraction (25-Feb-2020)
 https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/python
 
-
+# 19. Catching Car Mileage Numbers (25-Feb-2020)
+https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/python
