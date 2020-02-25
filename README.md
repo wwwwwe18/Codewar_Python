@@ -51,4 +51,7 @@ https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python
 # 17. Calculating with Functions (25-Feb-2020)
 https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/python
 
-# 18. 
+# 18. Range Extraction (25-Feb-2020)
+https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/python
+
+
