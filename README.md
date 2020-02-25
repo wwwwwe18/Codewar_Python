@@ -48,5 +48,7 @@ https://www.codewars.com/kata/52449b062fb80683ec000024/train/python
 # 16. Moving Zeros To The End (24-Feb-2020)
 https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python
 
-# 17. Calculating with Functions (24-Feb-2020)
+# 17. Calculating with Functions (25-Feb-2020)
 https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/python
+
+# 18. 
