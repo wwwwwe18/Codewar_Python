@@ -60,5 +60,5 @@ https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/python
 # 20. Make a spiral (26-Feb-2020)
 https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/python
 
-# 21. Text align justify (26-Feb-2020)
+# 21. Text align justify (05-Mar-2020)
 https://www.codewars.com/kata/537e18b6147aa838f600001b/train/python
