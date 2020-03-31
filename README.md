@@ -68,3 +68,6 @@ https://www.codewars.com/kata/5263c6999e0f40dee200059d/train/python
 
 # 23. Human readable duration format (31-Mar-2020)
 https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
+
+# 24. Battleship field validator (31-Mar-2020)
+https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7/train/python
