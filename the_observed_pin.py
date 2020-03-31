@@ -55,5 +55,3 @@ for tup in expectations:
     print(get_pins(tup[0]))
     print(sorted(tup[1]))
     print("")
-
-# Additional tests
