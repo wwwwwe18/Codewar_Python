@@ -65,3 +65,6 @@ https://www.codewars.com/kata/537e18b6147aa838f600001b/train/python
 
 # 22. The observed PIN (31-Mar-2020)
 https://www.codewars.com/kata/5263c6999e0f40dee200059d/train/python
+
+# 23. Human readable duration format (31-Mar-2020)
+https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
