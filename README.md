@@ -71,3 +71,9 @@ https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
 
 # 24. Battleship field validator (1-Apr-2020)
 https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7/train/python
+
+# 25. Break the pieces (18-Apr-2020)
+https://www.codewars.com/kata/527fde8d24b9309d9b000c4e/train/python
+
+# 26. Twice linear (TBC)
+https://www.codewars.com/kata/5672682212c8ecf83e000050/train/python
