@@ -1,4 +1,4 @@
-# Codewar_python
+# Codewar_Python
 
 # 1. Who likes it? (05-Feb-2020)
 https://www.codewars.com/kata/5266876b8f4bf2da9b000362
