@@ -75,5 +75,10 @@ https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7/train/python
 # 25. Break the pieces (18-Apr-2020)
 https://www.codewars.com/kata/527fde8d24b9309d9b000c4e/train/python
 
-# 26. Twice linear (TBC)
+# 26. Roman Numerals Encoder (10-Apr-2021)
+https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/python
+
+# 27. Binomial Expansion (10-Apr-2021)
+https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b/train/python
+# xx. Twice linear (TBC)
 https://www.codewars.com/kata/5672682212c8ecf83e000050/train/python
